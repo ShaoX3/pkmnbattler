@@ -1,0 +1,711 @@
+move,type
+Detect,Fighting
+Fissure,Ground
+Accelerock,Rock
+Petal Dance,Grass
+Horn Attack,Normal
+Dragon Claw,Dragon
+Freeze-Dry,Ice
+Psyshock,Psychic
+Bounce,Flying
+Power Whip,Grass
+Magnet Bomb,Steel
+Poison Fang,Poison
+Reflect,Psychic
+Confuse Ray,Ghost
+Soak,Water
+Zing Zap,Electric
+Brave Bird,Flying
+Stomp,Normal
+Shell Trap,Fire
+Lunge,Bug
+Quick Attack,Normal
+Razor Wind,Normal
+Rock Polish,Rock
+Power Gem,Rock
+Heal Bell,Normal
+Infestation,Bug
+Psywave,Psychic
+Shadow Claw,Ghost
+Present,Normal
+Psychic Fangs,Psychic
+Core Enforcer,Dragon
+Gastro Acid,Poison
+Sweet Kiss,Fairy
+Refresh,Normal
+Hypnosis,Psychic
+Destiny Bond,Ghost
+King's Shield,Steel
+Camouflage,Normal
+Gigavolt Havoc,Electric
+Rock Tomb,Rock
+Trick Room,Psychic
+Punishment,Dark
+Razor Shell,Water
+Liquidation,Water
+Petal Blizzard,Grass
+Rest,Psychic
+Frenzy Plant,Grass
+Instruct,Psychic
+Moonblast,Fairy
+Magic Room,Psychic
+Endeavor,Normal
+Bulldoze,Ground
+Attract,Normal
+Stun Spore,Grass
+Stealth Rock,Rock
+Acid Downpour,Poison
+Metal Burst,Steel
+Gravity,Psychic
+Metal Claw,Steel
+Spacial Rend,Dragon
+Topsy-Turvy,Dark
+Wake-Up Slap,Fighting
+Mystical Fire,Fire
+Smog,Poison
+Energy Ball,Grass
+Hyper Voice,Normal
+Scary Face,Normal
+Pluck,Flying
+Barrage,Normal
+Tearful Look,Normal
+Techno Blast,Normal
+Dark Void,Dark
+Swift,Normal
+Dark Pulse,Dark
+Nuzzle,Electric
+Octazooka,Water
+Thunder Wave,Electric
+Body Slam,Normal
+Smokescreen,Normal
+Heavy Slam,Steel
+Mega Kick,Normal
+Thrash,Normal
+Flame Burst,Fire
+Bide,Normal
+Sparkling Aria,Water
+Roar of Time,Dragon
+V-create,Fire
+Rototiller,Ground
+Aerial Ace,Flying
+Morning Sun,Normal
+Bloom Doom,Grass
+Hail,Ice
+Heat Crash,Fire
+Poison Sting,Poison
+Poison Jab,Poison
+Shift Gear,Steel
+Power Split,Psychic
+Leer,Normal
+Spite,Ghost
+Focus Energy,Normal
+Captivate,Normal
+Volt Switch,Electric
+Wide Guard,Rock
+Rapid Spin,Normal
+Inferno,Fire
+Sleep Talk,Normal
+Milk Drink,Normal
+Guard Swap,Psychic
+Belch,Poison
+Dragon Tail,Dragon
+Acid Armor,Poison
+Floral Healing,Fairy
+Flare Blitz,Fire
+Jump Kick,Fighting
+Supersonic,Normal
+Dream Eater,Psychic
+Fire Punch,Fire
+Happy Hour,Normal
+Draco Meteor,Dragon
+Rain Dance,Water
+Shadow Punch,Ghost
+Drill Peck,Flying
+Spotlight,Normal
+Whirlwind,Normal
+Dizzy Punch,Normal
+Blizzard,Ice
+Flatter,Dark
+Throat Chop,Dark
+Torment,Dark
+Night Slash,Dark
+Wrap,Normal
+Feather Dance,Flying
+Electric Terrain,Electric
+Comet Punch,Normal
+Twineedle,Bug
+Heart Swap,Psychic
+Leaf Tornado,Grass
+Aurora Beam,Ice
+Muddy Water,Water
+Hurricane,Flying
+Dragon Hammer,Dragon
+Poison Powder,Poison
+Twister,Dragon
+Fiery Dance,Fire
+Extrasensory,Psychic
+Megahorn,Bug
+Needle Arm,Grass
+Minimize,Normal
+Brick Break,Fighting
+Magical Leaf,Grass
+Spark,Electric
+Memento,Dark
+Night Daze,Dark
+Mean Look,Normal
+Sticky Web,Bug
+Force Palm,Fighting
+Zap Cannon,Electric
+Double Team,Normal
+Constrict,Normal
+Double-Edge,Normal
+Magnetic Flux,Electric
+Future Sight,Psychic
+Ominous Wind,Ghost
+Revelation Dance,Normal
+Pay Day,Normal
+After You,Normal
+Light That Burns the Sky,Psychic
+Facade,Normal
+Shadow Force,Ghost
+Teleport,Psychic
+Copycat,Normal
+Mud Shot,Ground
+Tailwind,Flying
+All-Out Pummeling,Fighting
+Cross Poison,Poison
+Thousand Waves,Ground
+Revenge,Fighting
+Twinkle Tackle,Fairy
+Haze,Ice
+Strength,Normal
+Water Shuriken,Water
+Amnesia,Psychic
+Clear Smog,Poison
+Water Spout,Water
+Synthesis,Grass
+Fire Blast,Fire
+Leaf Blade,Grass
+Skull Bash,Normal
+Absorb,Grass
+Assist,Normal
+Sand Attack,Ground
+Final Gambit,Fighting
+Sacred Sword,Fighting
+Snarl,Dark
+Fury Swipes,Normal
+Sing,Normal
+Focus Blast,Fighting
+Calm Mind,Psychic
+Hone Claws,Dark
+Metal Sound,Steel
+High Jump Kick,Fighting
+Fairy Lock,Fairy
+Close Combat,Fighting
+Fury Attack,Normal
+Air Cutter,Flying
+Clamp,Water
+Work Up,Normal
+Fake Tears,Dark
+Iron Tail,Steel
+Plasma Fists,Electric
+Spore,Grass
+Leafage,Grass
+Leech Seed,Grass
+Nasty Plot,Dark
+Crush Claw,Normal
+Misty Terrain,Fairy
+Karate Chop,Fighting
+Wring Out,Normal
+Curse,Ghost
+Guard Split,Psychic
+Hold Hands,Normal
+Water Gun,Water
+Chip Away,Normal
+Mega Punch,Normal
+Malicious Moonsault,Dark
+Bulk Up,Fighting
+Conversion 2,Normal
+Mind Blown,Fire
+Vital Throw,Fighting
+Bubble,Water
+Fusion Bolt,Electric
+Spit Up,Normal
+Flame Wheel,Fire
+Stomping Tantrum,Ground
+Sweet Scent,Normal
+Reflect Type,Normal
+Soul-Stealing 7-Star Strike,Ghost
+Icicle Spear,Ice
+Power Trick,Psychic
+Moongeist Beam,Ghost
+Meditate,Psychic
+Drain Punch,Fighting
+Discharge,Electric
+Last Resort,Normal
+Role Play,Psychic
+Leech Life,Bug
+Protect,Normal
+Spikes,Ground
+Thunder Shock,Electric
+Covet,Normal
+Retaliate,Normal
+Belly Drum,Normal
+Devastating Drake,Dragon
+Block,Normal
+Sketch,Normal
+Psycho Shift,Psychic
+Power Trip,Dark
+Aqua Tail,Water
+Shadow Sneak,Ghost
+Speed Swap,Psychic
+Natural Gift,Normal
+Rock Slide,Rock
+Meteor Mash,Steel
+Aromatic Mist,Fairy
+Swords Dance,Normal
+Fire Fang,Fire
+Guardian of Alola,Fairy
+Subzero Slammer,Ice
+Signal Beam,Bug
+Rock Throw,Rock
+Echoed Voice,Normal
+Hidden Power,Normal
+"10,000,000 Volt Thunderbolt",Electric
+Strength Sap,Grass
+Tail Slap,Normal
+Grass Pledge,Grass
+Laser Focus,Normal
+Outrage,Dragon
+Whirlpool,Water
+Venom Drench,Poison
+Land's Wrath,Ground
+Defense Curl,Normal
+Taunt,Dark
+Dive,Water
+Solar Blade,Grass
+Rage Powder,Bug
+Menacing Moonraze Maelstrom,Ghost
+Lovely Kiss,Normal
+Skill Swap,Psychic
+Mirror Coat,Psychic
+Lock-On,Normal
+Safeguard,Normal
+Judgment,Normal
+Nightmare,Ghost
+Boomburst,Normal
+Clanging Scales,Dragon
+Parting Shot,Dark
+Roar,Normal
+Bind,Normal
+Headbutt,Normal
+Payback,Dark
+Magnitude,Ground
+Extreme Evoboost,Normal
+Sheer Cold,Ice
+Crafty Shield,Fairy
+Steel Wing,Steel
+Thief,Dark
+Seed Bomb,Grass
+Black Hole Eclipse,Dark
+Superpower,Fighting
+Miracle Eye,Psychic
+Phantom Force,Ghost
+Ingrain,Grass
+Psychic,Psychic
+Silver Wind,Bug
+Tickle,Normal
+Wild Charge,Electric
+Light Screen,Psychic
+Astonish,Ghost
+Healing Wish,Psychic
+Dragon Breath,Dragon
+Fleur Cannon,Fairy
+Baby-Doll Eyes,Fairy
+Aeroblast,Flying
+Beak Blast,Flying
+Ice Beam,Ice
+Flash Cannon,Steel
+Confusion,Psychic
+Pursuit,Dark
+Mach Punch,Fighting
+Rage,Normal
+Wish,Normal
+Defog,Flying
+Screech,Normal
+Simple Beam,Normal
+Mimic,Normal
+Head Charge,Normal
+Focus Punch,Fighting
+Encore,Normal
+Origin Pulse,Water
+Bubble Beam,Water
+Savage Spin-Out,Bug
+Bug Buzz,Bug
+Mega Drain,Grass
+Vacuum Wave,Fighting
+Geomancy,Fairy
+Slack Off,Normal
+Growth,Normal
+Sludge Wave,Poison
+Electro Ball,Electric
+Guillotine,Normal
+Hyper Beam,Normal
+Splintered Stormshards,Rock
+Acid,Poison
+Substitute,Normal
+Rock Blast,Rock
+Flower Shield,Fairy
+Ion Deluge,Electric
+Gunk Shot,Poison
+Flash,Normal
+Frost Breath,Ice
+Baneful Bunker,Poison
+Crabhammer,Water
+Quash,Dark
+Solar Beam,Grass
+Sharpen,Normal
+Flame Charge,Fire
+Tectonic Rage,Ground
+Circle Throw,Fighting
+Switcheroo,Dark
+Crush Grip,Normal
+Razor Leaf,Grass
+Drill Run,Ground
+Trick-or-Treat,Ghost
+Waterfall,Water
+Mat Block,Fighting
+Earthquake,Ground
+Celebrate,Normal
+Aura Sphere,Fighting
+Embargo,Dark
+Power-Up Punch,Fighting
+Reversal,Fighting
+Tail Whip,Normal
+Zen Headbutt,Psychic
+Play Nice,Normal
+Smelling Salts,Normal
+Trick,Psychic
+Pound,Normal
+Pain Split,Normal
+Psych Up,Normal
+Ice Fang,Ice
+Sleep Powder,Grass
+Vine Whip,Grass
+Pin Missile,Bug
+Smack Down,Rock
+Power Swap,Psychic
+Anchor Shot,Steel
+Feint Attack,Dark
+Growl,Normal
+Secret Power,Normal
+Toxic Thread,Poison
+Water Sport,Water
+Bite,Dark
+Tri Attack,Normal
+Oblivion Wing,Flying
+Acrobatics,Flying
+Earth Power,Ground
+Hydro Pump,Water
+Night Shade,Ghost
+Fury Cutter,Bug
+Spirit Shackle,Ghost
+Peck,Flying
+Poison Gas,Poison
+Let's Snuggle Forever,Fairy
+Ice Burn,Ice
+Storm Throw,Fighting
+Cotton Spore,Grass
+Grass Whistle,Grass
+Counter,Fighting
+Searing Shot,Fire
+Harden,Normal
+Uproar,Normal
+Ancient Power,Rock
+Iron Defense,Steel
+Ice Hammer,Ice
+Spiky Shield,Grass
+Spectral Thief,Ghost
+Venoshock,Poison
+Ice Ball,Ice
+Smart Strike,Steel
+Toxic Spikes,Poison
+Fire Lash,Fire
+Brine,Water
+Magma Storm,Fire
+Dragon Pulse,Dragon
+Freeze Shock,Ice
+Spike Cannon,Normal
+Inferno Overdrive,Fire
+Quick Guard,Fighting
+Thunder Punch,Electric
+Hex,Ghost
+Hyperspace Hole,Psychic
+Acupressure,Normal
+Sunsteel Strike,Steel
+Spider Web,Bug
+Recycle,Normal
+Super Fang,Normal
+Shattered Psyche,Psychic
+Psychic Terrain,Psychic
+Surf,Water
+Crunch,Dark
+Dragon Ascent,Flying
+Gyro Ball,Steel
+Synchronoise,Psychic
+Shell Smash,Normal
+Rock Wrecker,Rock
+Sand Tomb,Ground
+Chatter,Flying
+Grudge,Ghost
+Metronome,Normal
+Purify,Poison
+Double Kick,Fighting
+Shadow Ball,Ghost
+Sky Uppercut,Fighting
+Grassy Terrain,Grass
+Shore Up,Ground
+Water Pulse,Water
+Round,Normal
+Stone Edge,Rock
+Disarming Voice,Fairy
+Heart Stamp,Psychic
+Dynamic Punch,Fighting
+Splash,Normal
+Icy Wind,Ice
+Grass Knot,Grass
+Mist,Ice
+Lucky Chant,Normal
+String Shot,Bug
+Flail,Normal
+Magic Coat,Psychic
+Hold Back,Normal
+Bolt Strike,Electric
+Hydro Cannon,Water
+Sonic Boom,Normal
+Worry Seed,Grass
+Charge,Electric
+Mirror Move,Flying
+Slash,Normal
+Toxic,Poison
+Snore,Normal
+Charge Beam,Electric
+Glaciate,Ice
+Gear Up,Steel
+Return,Normal
+Beat Up,Dark
+Magnet Rise,Electric
+Forest's Curse,Grass
+Multi-Attack,Normal
+Psycho Boost,Psychic
+Charm,Fairy
+Aqua Jet,Water
+Rock Climb,Normal
+Hydro Vortex,Water
+Soft-Boiled,Normal
+Mud Bomb,Ground
+Seismic Toss,Fighting
+False Swipe,Normal
+Baton Pass,Normal
+Lunar Dance,Psychic
+Low Kick,Fighting
+Thunderbolt,Electric
+Doom Desire,Steel
+Me First,Normal
+Sandstorm,Rock
+Lick,Ghost
+Catastropika,Electric
+Mud-Slap,Ground
+Psycho Cut,Psychic
+Confide,Normal
+Thousand Arrows,Ground
+Horn Drill,Normal
+Fairy Wind,Fairy
+Avalanche,Ice
+Slam,Normal
+Teeter Dance,Normal
+High Horsepower,Ground
+Ally Switch,Psychic
+Triple Kick,Fighting
+Conversion,Normal
+Telekinesis,Psychic
+Withdraw,Water
+Continental Crush,Rock
+Ice Punch,Ice
+Electroweb,Electric
+Diamond Storm,Rock
+Water Pledge,Water
+Seed Flare,Grass
+Frustration,Normal
+Wing Attack,Flying
+Sky Attack,Flying
+Flying Press,Fighting
+Agility,Psychic
+Fling,Dark
+Rock Smash,Fighting
+Noble Roar,Normal
+Steamroller,Bug
+Eruption,Fire
+Bone Rush,Ground
+Ice Shard,Ice
+Electrify,Electric
+Giga Drain,Grass
+Hyperspace Fury,Dark
+Tackle,Normal
+Coil,Poison
+Hammer Arm,Fighting
+Aurora Veil,Ice
+Blaze Kick,Fire
+Bullet Punch,Steel
+Cross Chop,Fighting
+Parabolic Charge,Electric
+Dig,Ground
+Ember,Fire
+Photon Geyser,Psychic
+Transform,Normal
+Icicle Crash,Ice
+Entrainment,Normal
+Psybeam,Psychic
+Play Rough,Fairy
+Follow Me,Normal
+Glare,Normal
+Light of Ruin,Fairy
+Shock Wave,Electric
+Sunny Day,Fire
+Sucker Punch,Dark
+Dragon Dance,Dragon
+Sludge,Poison
+Eerie Impulse,Electric
+Recover,Normal
+Struggle,Normal
+Helping Hand,Normal
+Burn Up,Fire
+Scald,Water
+Lava Plume,Fire
+Mist Ball,Psychic
+Thunder,Electric
+Dazzling Gleam,Fairy
+Aromatherapy,Grass
+Dual Chop,Dragon
+Sacred Fire,Fire
+Bone Club,Ground
+Bullet Seed,Grass
+Egg Bomb,Normal
+Assurance,Dark
+Self-Destruct,Normal
+Cotton Guard,Grass
+Corkscrew Crash,Steel
+Psystrike,Psychic
+Snatch,Dark
+Trump Card,Normal
+Sinister Arrow Raid,Ghost
+Brutal Swing,Dark
+Pollen Puff,Bug
+X-Scissor,Bug
+Submission,Fighting
+Vice Grip,Normal
+Gust,Flying
+Fire Spin,Fire
+Clangorous Soulblaze,Dragon
+Swallow,Normal
+Odor Sleuth,Normal
+Poison Tail,Poison
+Precipice Blades,Ground
+Nature Power,Normal
+Stored Power,Psychic
+Low Sweep,Fighting
+Powder,Bug
+Will-O-Wisp,Fire
+Arm Thrust,Fighting
+Stoked Sparksurfer,Electric
+Mud Sport,Ground
+Horn Leech,Grass
+Mind Reader,Normal
+Cut,Normal
+Cosmic Power,Psychic
+Gear Grind,Steel
+Sky Drop,Flying
+Weather Ball,Normal
+Double Hit,Normal
+Foul Play,Dark
+Volt Tackle,Electric
+Mirror Shot,Steel
+Swagger,Normal
+First Impression,Bug
+Kinesis,Psychic
+Yawn,Normal
+Double Slap,Normal
+Acid Spray,Poison
+Roost,Flying
+Breakneck Blitz,Normal
+Feint,Normal
+Wood Hammer,Grass
+Bestow,Normal
+Fusion Flare,Fire
+Bonemerang,Ground
+Draining Kiss,Fairy
+Pulverizing Pancake,Normal
+Fly,Flying
+Incinerate,Fire
+Fire Pledge,Fire
+Relic Song,Normal
+Quiver Dance,Bug
+Oceanic Operetta,Water
+Autotomize,Steel
+Foresight,Normal
+Bug Bite,Bug
+Take Down,Normal
+Rolling Kick,Fighting
+Iron Head,Steel
+Howl,Normal
+Aqua Ring,Water
+Blue Flare,Fire
+Heat Wave,Fire
+Defend Order,Bug
+Supersonic Skystrike,Flying
+Scratch,Normal
+Fake Out,Normal
+Leaf Storm,Grass
+Trop Kick,Grass
+Overheat,Fire
+Dragon Rush,Dragon
+Struggle Bug,Bug
+Dragon Rage,Dragon
+Thunder Fang,Electric
+Fell Stinger,Bug
+Hyper Fang,Normal
+Extreme Speed,Normal
+Heal Block,Psychic
+Explosion,Normal
+Barrier,Psychic
+Heal Order,Bug
+Searing Sunraze Smash,Steel
+Prismatic Laser,Psychic
+Heal Pulse,Psychic
+Head Smash,Rock
+Steam Eruption,Water
+Disable,Normal
+Flamethrower,Fire
+Rollout,Rock
+Knock Off,Dark
+Wonder Room,Psychic
+Darkest Lariat,Dark
+Never-Ending Nightmare,Ghost
+Perish Song,Normal
+Air Slash,Flying
+Sludge Bomb,Poison
+Moonlight,Fairy
+Tail Glow,Bug
+Stockpile,Normal
+Endure,Normal
+Imprison,Psychic
+Genesis Supernova,Psychic
+Shadow Bone,Ghost
+Giga Impact,Normal
+Blast Burn,Fire
+Powder Snow,Ice
+U-turn,Bug
+Nature's Madness,Fairy
+Secret Sword,Fighting
+Attack Order,Bug
+Luster Purge,Psychic
